@@ -1,6 +1,6 @@
 +++
 aliases = ["posts", "blog"]
 title = "Posts"
-authors = ["Filipe Carneiro"]
+authors = ["Jaime Walter Pérez"]
 tags = ["index"]
 +++

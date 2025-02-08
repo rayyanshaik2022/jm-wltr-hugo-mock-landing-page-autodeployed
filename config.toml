@@ -10,7 +10,6 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 theme = "hugo-bootstrap-theme"
-themesdir = "../.."
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
@@ -48,3 +47,10 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      attributes = true
