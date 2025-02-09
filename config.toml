@@ -1,7 +1,7 @@
 baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "Hugo Bootstrap Theme"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+title = "Connected Neurons"
+author = "Jaime Walter Pérez"
+copyright = "Jaime Walter Pérez | Penn Class of 2027 | CIS 3500"
 
 timeZone = 'Europe/London'
 
@@ -47,10 +47,3 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-    [markup.goldmark.extensions]
-      attributes = true

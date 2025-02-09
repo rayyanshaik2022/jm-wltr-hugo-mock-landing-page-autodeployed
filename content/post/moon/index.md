@@ -22,7 +22,7 @@ Assume the Moon's orbit around the Earth is perfectly circular, the distance bet
 **Question:** How many radians does the Moon cover in one day?
 
 <details>
-<summary><strong>Show hint</strong></summary>
+<summary>**Show Hint**</summary>
 Think about how many radians are in a full circle (360 degrees). Then divide that by the number of days it takes the Moon to complete one orbit.
 </details>
 
@@ -32,17 +32,19 @@ Think about how many radians are in a full circle (360 degrees). Then divide tha
 Using the answer from the previous problem, what is the **distance** the Moon travels around the Earth in one day?
 
 <details>
-<summary><strong>Show hint</strong></summary>
+<summary>**Show hint**</summary>
 The distance traveled in one day depends on the radius of the orbit (380,000 km) and the fraction of the circle covered in one day. Use the circumference of the orbit as a starting point.
 </details>
 
 ---
 
 ### Level 3:  
-What must the **angular velocity** (in radians per second) of the Moon be to travel at the speed of light, knowing that the speed of light is **299,792,458 m/s**?  
+What must the **angular velocity** (in radians per second) of the Moon be to travel at the speed of light, knowing that the speed of light is **299,792,458 m/s**?  Once you get the answer, imagine the Moon traveling at that speed, and you are visualizing how fast light is!
+
+
 (Read [Why the speed of light has no decimals and the history of the meter](../meter) for more context.)
 
 <details>
-<summary><strong>Show hint</strong></summary>
-Angular velocity is the speed of an object divided by the radius of its path. Convert the distance between the Earth and Moon into meters and then calculate.
+<summary>**Show hint**</summary>
+Angular velocity is the speed of an object divided by the radius of its path. Convert the distance between the Earth and Moon into meters and then calculate. 
 </details>
