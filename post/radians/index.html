@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+<head>
+    
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+<meta http-equiv='Content-Security-Policy' content="script-src 'self'; style-src 'self' 'unsafe-inline'; object-src 'none'; base-uri 'none'">
+    
+
+<link rel="stylesheet" href="/hugo-mock-landing-page/css/style.da2828fe7a26797522db2adc2cd735c6d9e667ba01f11d96a68d7566fade29290e5abaf7ddb95d67cdd008a70ba2d17c832a0894a5e2a28a84673728a7ec3c55.css" media="screen" integrity="sha512-2igo/nomeXUi2yrcLNc1xtnmZ7oB8R2Wpo11ZvreKSkOWrr33bldZ83QCKcLotF8gyoIlKXiooqEZzcop&#43;w8VQ==" crossorigin="anonymous">
+
+    <title>[Lessons] Understanding Radians (Trigonometry #1) </title>
+
+<meta name="description" content="Apart from degrees, radians are another way mathematicians measure angles. Learn about them!">
+
+  <meta name="robots" content="noindex">
+
+
+
+<link rel="canonical" href="https://jm-wltr.github.io/hugo-mock-landing-page/post/radians/">
+
+
+<link rel="alternate" hreflang="en" href="https://jm-wltr.github.io/hugo-mock-landing-page/post/radians/">
+
+
+
+<link rel="alternate" hreflang="x-default" href="https://jm-wltr.github.io/hugo-mock-landing-page/post/radians/">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:title" content="[Lessons] Understanding Radians (Trigonometry #1) ">
+<meta property="og:description" content="Apart from degrees, radians are another way mathematicians measure angles. Learn about them!">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://jm-wltr.github.io/hugo-mock-landing-page/post/radians/">
+    
+  <meta property="article:section" content="post">
+  
+    <meta property="article:published_time" content="2021-04-05T13:00:44+01:00">
+  
+  
+    <meta property="article:modified_time" content="2025-02-08T12:35:06-05:00">
+  
+  <meta property="og:site_name" content="Connected Neurons">
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:title" content="[Lessons] Understanding Radians (Trigonometry #1) ">
+<meta name="twitter:description" content="Apart from degrees, radians are another way mathematicians measure angles. Learn about them!">
+
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "[Lessons] Understanding Radians (Trigonometry #1) ",
+  "datePublished": "2021-04-05T13:00:44+01:00",
+  "dateModified": "2025-02-08T12:35:06-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Jaime Walter Pérez",
+    "url": "https:\/\/jm-wltr.github.io\/hugo-mock-landing-page\/authors\/jaime-walter-p%C3%A9rez\/"
+  },
+  "mainEntityOfPage": "https://jm-wltr.github.io/hugo-mock-landing-page/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Connected Neurons"
+  },
+  "wordcount" :  322 ,
+  "description": "Apart from degrees, radians are another way mathematicians measure angles. Learn about them!",
+  "keywords": ["bootstrap 5 2 0 beta","bootstrap 5","bootstrap"]
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<link rel="icon" type="image/svg+xml" href="https://jm-wltr.github.io/hugo-mock-landing-page/favicon.svg">
+<link rel="icon" type="image/png" href="https://jm-wltr.github.io/hugo-mock-landing-page/favicon.png">
+
+</head>
+
+<body class="post single d-flex flex-column min-vh-100"><header class="main-header">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+
+      
+      <a class="navbar-brand" href="/hugo-mock-landing-page/">
+        
+        Connected Neurons
+      </a>
+
+      
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="menu-main navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/hugo-mock-landing-page/contact/" title='Contact' aria-label='Contact'>Contact</a>
+          </li>
+          
+          </ul>
+
+        
+        
+        
+
+      </div>
+    </div>
+  </nav>
+</header><div id="content">
+        
+
+<div class="container py-3">
+  <h1 id="understanding-radians-">Understanding Radians 📐</h1>
+<p>Radians are a way to measure angles, just like degrees. They are widely used in mathematics, physics, and engineering because of their natural relationship with circles and trigonometric functions.</p>
+<hr>
+<h2 id="what-is-a-radian-">What is a Radian? 🤔</h2>
+<p>A radian is the angle created when the length of an arc on a circle is equal to the radius of that circle.</p>
+<h3 id="key-facts">Key Facts:</h3>
+<ul>
+<li>1 radian is approximately <strong>57.3 degrees</strong>.</li>
+<li>A full circle has <strong>2π radians</strong>, which is equivalent to <strong>360 degrees</strong>.</li>
+<li>Half a circle (a straight angle) is <strong>π radians</strong> or <strong>180 degrees</strong>.</li>
+</ul>
+<hr>
+<h2 id="why-use-radians-">Why Use Radians? 🧮</h2>
+<p>Radians simplify the relationship between an angle and the arc length of a circle. For example:</p>
+<ul>
+<li>The <strong>arc length</strong> is calculated as:
+<ul>
+<li><code>Arc length = Radius × Angle in radians</code></li>
+</ul>
+</li>
+</ul>
+<p>This makes radians the natural choice for mathematical calculations involving circles.</p>
+<hr>
+<h2 id="converting-between-degrees-and-radians-">Converting Between Degrees and Radians 🔄</h2>
+<h3 id="to-convert-degrees-to-radians">To convert degrees to radians:</h3>
+<p>Multiply the angle in degrees by <code>π/180</code>.</p>
+<h3 id="to-convert-radians-to-degrees">To convert radians to degrees:</h3>
+<p>Multiply the angle in radians by <code>180/π</code>.</p>
+<h4 id="examples">Examples:</h4>
+<ol>
+<li>
+<p>Convert 90 degrees to radians:</p>
+<ul>
+<li><code>90 × π / 180 = π/2 radians</code></li>
+<li>Approximately 1.57 radians.</li>
+</ul>
+</li>
+<li>
+<p>Convert π radians to degrees:</p>
+<ul>
+<li><code>π × 180 / π = 180 degrees</code>.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="how-radians-relate-to-the-unit-circle-">How Radians Relate to the Unit Circle 🎯</h2>
+<p>In the unit circle:</p>
+<ul>
+<li>The radius is 1.</li>
+<li>The circumference is <code>2π</code>, so a full rotation equals <code>2π radians</code>.</li>
+<li>Some common angles and their radian measures:
+<ul>
+<li>0 degrees = 0 radians</li>
+<li>90 degrees = <code>π/2</code> radians (about 1.57 radians)</li>
+<li>180 degrees = <code>π</code> radians (about 3.14 radians)</li>
+<li>270 degrees = <code>3π/2</code> radians (about 4.71 radians)</li>
+<li>360 degrees = <code>2π</code> radians (about 6.28 radians)</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="practice-problems-">Practice Problems 📝</h2>
+<h3 id="problem-1">Problem 1:</h3>
+<p>Convert the following angles to radians:</p>
+<ol>
+<li>45 degrees</li>
+<li>120 degrees</li>
+<li>210 degrees</li>
+</ol>
+<!-- raw HTML omitted -->
+<hr>
+<h3 id="problem-2">Problem 2:</h3>
+<p>Convert the following radians to degrees:</p>
+<ol>
+<li><code>π/6</code></li>
+<li><code>5π/4</code></li>
+<li><code>2π</code></li>
+</ol>
+<!-- raw HTML omitted -->
+<hr>
+<h3 id="problem-3">Problem 3:</h3>
+<p>A wheel with a radius of 10 cm rolls 20 cm along a flat surface. What angle (in radians) does the wheel rotate through?</p>
+<!-- raw HTML omitted -->
+
+</div>
+
+
+    </div>
+    <footer class="py-3 mt-auto bg-light">
+  <div class="container py-1 my-1">
+    <div class="d-flex flex-wrap justify-content-between align-items-center">
+      <p class="col-md mb-0 text-muted">Jaime Walter Pérez | Penn Class of 2027 | CIS 3500</p>
+      <ul class="nav col-md-auto justify-content-end">
+        <li class="nav-item"><a href="/hugo-mock-landing-page/code-of-conduct/" class="nav-link px-2 text-muted" title='Code of Conduct' aria-label='Code of Conduct'>Code of Conduct</a></li>
+        <li class="nav-item"><a href="/hugo-mock-landing-page/privacy-policy/" class="nav-link px-2 text-muted" title='Privacy Policy' aria-label='Privacy Policy'>Privacy Policy</a></li>
+        </ul>
+    </div>
+  </div>
+</footer>
+    
+
+
+
+
+
+    <script src="/hugo-mock-landing-page/js/main.min.e8d88c82c0438b527f1aca4115652ba1e2877bf805b75593b23ac0e3fe2b3fe95a467d1feef275355132ba061da6404b0d24d55afabc209b294b1db043be014d.js" integrity="sha512-6NiMgsBDi1J/GspBFWUroeKHe/gFt1WTsjrA4/4rP&#43;laRn0f7vJ1NVEyugYdpkBLDSTVWvq8IJspSx2wQ74BTQ==" crossorigin="anonymous" defer></script>
+  
+  
+
+
+
+</body>
+</html>

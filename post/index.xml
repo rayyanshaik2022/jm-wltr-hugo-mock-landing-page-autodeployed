@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Connected Neurons</title>
+    <link>https://jm-wltr.github.io/hugo-mock-landing-page/post/</link>
+    <description>Recent content in Posts on Connected Neurons</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Jaime Walter Pérez | Penn Class of 2027 | CIS 3500</copyright>
+    <atom:link href="https://jm-wltr.github.io/hugo-mock-landing-page/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Fun Fact] Why the Speed of Light Has No Decimals and the History of the Meter</title>
+      <link>https://jm-wltr.github.io/hugo-mock-landing-page/post/meter/</link>
+      <pubDate>Mon, 12 Apr 2021 13:00:44 +0100</pubDate>
+      <guid>https://jm-wltr.github.io/hugo-mock-landing-page/post/meter/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;fun-fact-why-the-speed-of-light-has-no-decimals-and-the-history-of-the-meter&#34;&gt;[Fun Fact] Why the Speed of Light Has No Decimals and the History of the Meter&lt;/h1&gt;&#xA;&lt;p&gt;Have you ever wondered why the speed of light in a vacuum is exactly &lt;strong&gt;299,792,458 m/s&lt;/strong&gt;? How can such a precise and complicated number have no decimals? To answer this question, we need to dive into the fascinating history of how the meter was defined.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-origins-of-the-meter-&#34;&gt;The Origins of the Meter 📏&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;strong&gt;1793&lt;/strong&gt;, the meter was defined by the International System of Units as exactly &lt;strong&gt;one ten-millionth of the distance&lt;/strong&gt; between the North Pole and the Equator along a meridian. By &lt;strong&gt;1879&lt;/strong&gt;, this distance was represented using a &lt;strong&gt;platinum-iridium alloy bar&lt;/strong&gt; with marks on each side to denote one meter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Lessons] Understanding Radians (Trigonometry #1) </title>
+      <link>https://jm-wltr.github.io/hugo-mock-landing-page/post/radians/</link>
+      <pubDate>Mon, 05 Apr 2021 13:00:44 +0100</pubDate>
+      <guid>https://jm-wltr.github.io/hugo-mock-landing-page/post/radians/</guid>
+      <description>&lt;h1 id=&#34;understanding-radians-&#34;&gt;Understanding Radians 📐&lt;/h1&gt;&#xA;&lt;p&gt;Radians are a way to measure angles, just like degrees. They are widely used in mathematics, physics, and engineering because of their natural relationship with circles and trigonometric functions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-is-a-radian-&#34;&gt;What is a Radian? 🤔&lt;/h2&gt;&#xA;&lt;p&gt;A radian is the angle created when the length of an arc on a circle is equal to the radius of that circle.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-facts&#34;&gt;Key Facts:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 radian is approximately &lt;strong&gt;57.3 degrees&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A full circle has &lt;strong&gt;2π radians&lt;/strong&gt;, which is equivalent to &lt;strong&gt;360 degrees&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Half a circle (a straight angle) is &lt;strong&gt;π radians&lt;/strong&gt; or &lt;strong&gt;180 degrees&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-use-radians-&#34;&gt;Why Use Radians? 🧮&lt;/h2&gt;&#xA;&lt;p&gt;Radians simplify the relationship between an angle and the arc length of a circle. For example:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Problem Set] The Moon at the Speed of Light </title>
+      <link>https://jm-wltr.github.io/hugo-mock-landing-page/post/moon/</link>
+      <pubDate>Fri, 05 Mar 2021 13:00:44 +0100</pubDate>
+      <guid>https://jm-wltr.github.io/hugo-mock-landing-page/post/moon/</guid>
+      <description>&lt;h1 id=&#34;problem-set-the-moon-at-the-speed-of-light-&#34;&gt;[Problem Set] The Moon at the Speed of Light 🌕⚡&lt;/h1&gt;&#xA;&lt;p&gt;These problems can be solved more easily after completing the lesson on radians in the trigonometry course.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;level-1&#34;&gt;Level 1:&lt;/h3&gt;&#xA;&lt;p&gt;Assume the Moon&amp;rsquo;s orbit around the Earth is perfectly circular, the distance between them is exactly &lt;strong&gt;380,000 km&lt;/strong&gt;, and a complete orbit takes exactly &lt;strong&gt;27 days&lt;/strong&gt;.&lt;br&gt;&#xA;&lt;strong&gt;Question:&lt;/strong&gt; How many radians does the Moon cover in one day?&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;level-2&#34;&gt;Level 2:&lt;/h3&gt;&#xA;&lt;p&gt;Using the answer from the previous problem, what is the &lt;strong&gt;distance&lt;/strong&gt; the Moon travels around the Earth in one day?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

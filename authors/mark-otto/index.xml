@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Otto on Hugo Bootstrap Theme</title>
+    <link>http://localhost:1313/hugo-bootstrap-theme/authors/mark-otto/</link>
+    <description>Recent content in Mark Otto on Hugo Bootstrap Theme</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <lastBuildDate>Sat, 08 Feb 2025 11:10:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-bootstrap-theme/authors/mark-otto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap 5.2.0 beta</title>
+      <link>http://localhost:1313/hugo-bootstrap-theme/post/bootstrap-5-2-0-beta/</link>
+      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
+      <guid>http://localhost:1313/hugo-bootstrap-theme/post/bootstrap-5-2-0-beta/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;meter.png&#34; alt=&#34;Symbol of the official meter bar. From Wikipedia&#34;&gt;{width=20}&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-the-speed-of-light-has-no-decimals-and-the-history-of-the-meter-&#34;&gt;Why the Speed of Light Has No Decimals and the History of the Meter 🌟&lt;/h1&gt;&#xA;&lt;p&gt;Have you ever wondered why the speed of light in a vacuum is exactly &lt;strong&gt;299,792,458 m/s&lt;/strong&gt;? How can such a precise and complicated number have no decimals? To answer this question, we need to dive into the fascinating history of how the meter was defined.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-origins-of-the-meter-&#34;&gt;The Origins of the Meter 📏&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;strong&gt;1793&lt;/strong&gt;, the meter was defined by the International System of Units as exactly &lt;strong&gt;one ten-millionth of the distance&lt;/strong&gt; between the North Pole and the Equator along a meridian. By &lt;strong&gt;1879&lt;/strong&gt;, this distance was represented using a &lt;strong&gt;platinum-iridium alloy bar&lt;/strong&gt; with marks on each side to denote one meter.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
